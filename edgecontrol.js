@@ -20,8 +20,7 @@
     function edgeControlNode(config) {
         RED.nodes.createNode(this, config);
         var node = this;
-        
-		/*
+        /*
 		var signalcount = 0;
 		var prevValue = "0";
 		
